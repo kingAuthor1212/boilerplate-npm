@@ -1,5 +1,5 @@
 {
-  "author": "fcc233dd424-25ff-48b3-aaba-3374d8f775c4",
+  "author": "Peter Mkwembe",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
